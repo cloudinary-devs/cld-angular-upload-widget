@@ -21,7 +21,7 @@ A minimal Angular 21 app demonstrating how to integrate the [Cloudinary Upload W
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-org/cld-angular-upload-widget.git
+   git clone https://github.com/cloudinary-devs/cld-angular-upload-widget.git
    cd cld-angular-upload-widget
    ```
 
